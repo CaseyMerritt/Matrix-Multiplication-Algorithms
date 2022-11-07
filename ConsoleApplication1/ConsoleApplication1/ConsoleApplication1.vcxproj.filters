@@ -15,28 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Classic.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="DivideAndConquer.cpp">
+    <ClCompile Include="Matrix.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Strassen.cpp">
+    <ClCompile Include="Multiplication.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Classic.h">
+    <ClInclude Include="Matrix.h">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="Strassen.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="DivideAndConquer.h">
-      <Filter>Source Files</Filter>
+    <ClInclude Include="Multiplication.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
